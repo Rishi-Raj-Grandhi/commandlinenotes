@@ -8,3 +8,5 @@ git commit -m"mesage sample"--commit git
 git log--check the commits
 git add--add files into git
 ---commit-2----
+git remote add origin <url of the public repo>
+git push -u origin master
