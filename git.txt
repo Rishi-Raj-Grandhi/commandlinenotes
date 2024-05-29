@@ -1,0 +1,10 @@
+git--tool for version control
+github--an online place to host the repos
+version control--save previous versions if you mess up with your codes
+working directory-->staging area
+----commit 1----
+git status--checks what are under git
+git commit -m"mesage sample"--commit git
+git log--check the commits
+git add--add files into git
+---commit-2----
